@@ -1,4 +1,4 @@
-# bioinformatics
+# Bioinformatics - a Few Scripts 
 This repository hosts some code for practical bioinformatics applications. 
 
 ## GC_CONTENT 
